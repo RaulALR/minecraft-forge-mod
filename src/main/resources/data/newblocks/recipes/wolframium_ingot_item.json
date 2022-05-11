@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "newblocks:wolframium_mineral_item"
+  },
+  "result": "newblocks:wolframium_ingot_item",
+  "experience": 0.2,
+  "cookingtime": 200
+}

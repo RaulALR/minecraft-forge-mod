@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "newblocks:example_block",
+    "newblocks:rotate_block",
+    "newblocks:wolframium_ore_block",
+    "newblocks:wolframium_block"
+  ]
+}

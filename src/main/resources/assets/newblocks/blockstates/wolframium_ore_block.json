@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "newblocks:block/wolframium_ore_block"
+    }
+  }
+}

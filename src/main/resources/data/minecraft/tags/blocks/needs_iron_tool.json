@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "newblocks:example_block",
+    "newblocks:rotate_block"
+  ]
+}

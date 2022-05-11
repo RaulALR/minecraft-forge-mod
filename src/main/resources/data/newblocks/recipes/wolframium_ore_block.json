@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "III",
+    "III"
+  ],
+  "key": {
+    "I": {
+      "item": "newblocks:wolframium_mineral_item"
+    }
+  },
+  "result": {
+    "item": "newblocks:wolframium_ore_block",
+    "count": 1
+  }
+}

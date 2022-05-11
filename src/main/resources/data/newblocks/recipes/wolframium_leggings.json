@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "X X",
+    "X X"
+  ],
+  "key": {
+    "X": {
+      "item": "newblocks:wolframium_mineral_item"
+    }
+  },
+  "result": {
+    "item": "newblocks:wolframium_leggings"
+  }
+}

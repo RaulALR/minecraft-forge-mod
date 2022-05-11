@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    " # ",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "newblocks:wolframium_ingot_item"
+    }
+  },
+  "result": {
+    "item": "newblocks:wolframium_pickaxe"
+  }
+}

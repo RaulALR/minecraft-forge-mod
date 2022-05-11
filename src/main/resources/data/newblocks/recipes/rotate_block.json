@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "newblocks:example_block"
+  },
+  "result": "newblocks:rotate_block",
+  "experience": 0.2,
+  "cookingtime": 200
+}

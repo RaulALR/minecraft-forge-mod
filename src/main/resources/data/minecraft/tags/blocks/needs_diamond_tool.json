@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "newblocks:wolframium_ore_block",
+    "newblocks:wolframium_block"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "newblocks:example_block"
+    }
+  ],
+  "result": {
+    "item": "newblocks:example_item",
+    "count": 1
+  }
+}
