@@ -7,9 +7,11 @@
   "item.newblocks.wolframium_hoe": "Azada de wolframio",
   "item.newblocks.wolframium_shovel": "Pala de wolframio",
   "item.newblocks.wolframium_axe": "Hacha de wolframio",
+  "item.newblocks.wolframium_trident": "Tridente de wolframio",
   "item.newblocks.elixir_food_item": "Elixir de wolframio",
   "item.newblocks.wolframium_ingot_item": "Lingote de wolframio",
   "item.newblocks.wolframium_mineral_item": "Mineral de wolframio",
+  "block.newblocks.wolframium_block": "Bloque de wolframio",
   "block.newblocks.example_block": "BLOQUE DE MIERDA",
   "block.newblocks.rotate_block": "BLOQUE GIRATORIO DE MIERDA",
   "block.newblocks.wolframium_ore_block": "Mena de wolframio"

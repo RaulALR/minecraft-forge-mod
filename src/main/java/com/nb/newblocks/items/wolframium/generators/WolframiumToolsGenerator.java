@@ -26,6 +26,8 @@ public class WolframiumToolsGenerator {
             () -> new WolframiumSword(WolframiumTier.WOLFRAMIUM, 2, 3f, new SwordItem.Properties()));
     public static final RegistryObject<SwordItem> WOLFRAMIUM_HAMMER = TOOLS.register("wolframium_hammer",
             () -> new WolframiumHammer(WolframiumTier.WOLFRAMIUM, 10, 1f, new SwordItem.Properties()));
+    public static final RegistryObject<TridentItem> WOLFRAMIUM_TRIDENT = TOOLS.register("wolframium_trident",
+            () -> new WolframiumTrident(new TridentItem.Properties()));
 
     public static void register(IEventBus eventBus) {
         TOOLS.register(eventBus);
